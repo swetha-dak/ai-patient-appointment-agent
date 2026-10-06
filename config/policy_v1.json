@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "require_confirmation_before_book": true,
+  "require_confirmation_before_reschedule": true,
+  "treat_book_as_confirmation": false,
+  "resolve_relative_dates": true,
+  "require_iso_date": false,
+  "require_availability_check_before_mutation": true,
+  "claim_success_only_from_tool": true
+}
